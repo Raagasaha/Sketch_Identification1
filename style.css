@@ -1,0 +1,20 @@
+body {
+    background-color: aquamarine;
+}
+
+#heading {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 45px;
+}
+
+#label, #confidence {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: black;
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
